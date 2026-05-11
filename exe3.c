@@ -1,4 +1,4 @@
-// Fazer um programa em C que pede um númer e exibe sua tabuada de multiplicação
+// Fazer um programa em C que pede um número e exibe sua tabuada de multiplicação
 
 #include <stdio.h>
 
